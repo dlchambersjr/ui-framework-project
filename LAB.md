@@ -27,6 +27,7 @@ Implementation will vary depending on the framework that you've been assigned.
 
 ### Stretch Goals:
 * Deploy your running appliation to either Heroku or Amazon
+* Repeat the process, recreating the socket.io chat applet
 
 
 ###  Documentation
