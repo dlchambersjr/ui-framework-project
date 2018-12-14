@@ -6,8 +6,8 @@
 ### Research Conducted By: Trevor Stam and David Chambers
 
 ### Overall Score and Comments
-#### Score (Out of 10): 7.5
-#### General Comments
+### Score (Out of 10): 7.5
+### General Comments
 Angular allows the user to create a front-end only interface.  It comes with the ability to create HTTP connects to a RESTful back-end. It has a fast setup process and good tutorial to get a new user started quickly.
 
 #### Pros
@@ -43,9 +43,9 @@ Angular allows the user to create a front-end only interface.  It comes with the
 A simple application could be built within 1-2 hours.  If experienced developers spent 8-16 hours with Angular, they could quickly level up their skills and develop more in-depth applications.
 
 #### Community Support and Adoption levels
-[History](https://news.ycombinator.com/item?id=6631576)
-[Top 20 Angular Blogs](https://blog.feedspot.com/angular_blogs/)
-[Google Trends](https://trends.google.com/trends/explore?geo=US&q=%2Fg%2F11c6w0ddw9,%2Fm%2F012l1vxv)
+* [History](https://news.ycombinator.com/item?id=6631576)
+* [Top 20 Angular Blogs](https://blog.feedspot.com/angular_blogs/)
+* [Google Trends](https://trends.google.com/trends/explore?geo=US&q=%2Fg%2F11c6w0ddw9,%2Fm%2F012l1vxv)
 
 ### Links and Resources
 * [framework](https://angular.io/)
