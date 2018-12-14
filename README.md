@@ -13,7 +13,7 @@ Angular allows the user to create a front-end only interface.  It comes with the
 #### Pros
 * Command Line Interface (CLI) allows for rapid deployment of new modules into the Angular framework.
 * Clear Documentation to get started and a fairly intuitive tutorial.  A basic application can be up and running in under 15 minutes, and a more complex application in less than two-hours.
-* The CLI also allows for the quick creation and integration of component folders, files, and code along with a testing file. Allows for good seperation of concerns.
+* The CLI also allows for the quick creation and integration of component folders, files, and code along with a testing file. Allows for good separation of concerns.
 * Built in Angular components start with a '@' - this creates consistency and clarity as to what is naturally part of the framework.
 * Code splitting allows us to essentially break our codebase down into smaller chunks and serve those chunks on demand, which we call “lazy loading”. - (https://toddmotto.com/lazy-loading-angular-code-splitting-webpack)
 * Using pipes to modify formatting (i.e., case, currency, etc...)
@@ -53,8 +53,8 @@ A simple application could be built within 1-2 hours.  If experienced developers
 * [docs](https://angular.io/docs)
 
 ### Code Demos
-* [live/running application](http://xyz.com)
-* [code repository](http://xyz.com)
+* [live/running application](http://dc-ts-angular.s3-website-us-west-2.amazonaws.com/)
+* [code repository](https://github.com/dlchambersjr/angular-counter)
 
 ### Operating Instructions
 If someone were to download your repo (above), what steps do they need to take to run the application
