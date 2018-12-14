@@ -44,6 +44,7 @@ A simple application could be built within 1-2 hours.  If experienced developers
 
 #### Community Support and Adoption levels
 [History](https://news.ycombinator.com/item?id=6631576)
+[Top 20 Angular Blogs](https://blog.feedspot.com/angular_blogs/)
 [Google Trends](https://trends.google.com/trends/explore?geo=US&q=%2Fg%2F11c6w0ddw9,%2Fm%2F012l1vxv)
 
 ### Links and Resources
